@@ -22,6 +22,6 @@
     <string name="equal">=</string>
     <string name="delete_one_digit"><![CDATA[<---]]></string>
     <string name="div_one_to">1/x</string>
-    <string name="clear">CLEAR</string>
+    <string name="clear">C</string>
     <string name="example">1203+8463</string>
 </resources>
